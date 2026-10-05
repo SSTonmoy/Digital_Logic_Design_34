@@ -9,5 +9,3 @@ Dhaka International University
 Name: Saif Sufian Tonmoy
 Roll: 34
 Batch: 101
-
-**Assignment file:** [Saif_34.pdf](Saif_34.pdf)
